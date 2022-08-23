@@ -1,0 +1,16 @@
+{
+  "name": "express-mongo-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.5.2",
+    "nodemon": "^2.0.19"
+  },
+  "type": "module"
+}
